@@ -2,6 +2,9 @@
   ## Project description
   Developing a program to process sequences of moving heads, fly-overs, and vehicles from the USC-SIPI Image Database, handling large volumes of image data.
 
+  ## Execution
+  
+  
   ## Code organization
   `bin/` This folder should hold all binary/executable code that is built automatically or manually. Executable code should have use the .exe extension or programming language-specific extension.
 
