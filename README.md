@@ -43,7 +43,6 @@ GPU memory usage: used = 10572.687500, free = 11991.187500 MB, total = 22563.875
 Loaded image: Lena1.pgm
 Image dimensions: 512x512
 First 10 pixel values: 162 162 162 161 162 156 163 160 164 160 
-CUDA Error: After image upload - invalid argument
 Mask size: 5x5
 ROI size: 512x512
 Anchor point: (2, 2)
@@ -54,7 +53,6 @@ GPU memory usage: used = 10572.687500, free = 11991.187500 MB, total = 22563.875
 Loaded image: Lena2.pgm
 Image dimensions: 512x512
 First 10 pixel values: 162 162 162 161 162 156 163 160 164 160 
-CUDA Error: After image upload - invalid argument
 Mask size: 5x5
 ROI size: 512x512
 Anchor point: (2, 2)
@@ -65,7 +63,6 @@ GPU memory usage: used = 10572.687500, free = 11991.187500 MB, total = 22563.875
 Loaded image: Lena3.pgm
 Image dimensions: 512x512
 First 10 pixel values: 162 162 162 161 162 156 163 160 164 160 
-CUDA Error: After image upload - invalid argument
 Mask size: 5x5
 ROI size: 512x512
 Anchor point: (2, 2)
@@ -76,7 +73,6 @@ GPU memory usage: used = 10572.687500, free = 11991.187500 MB, total = 22563.875
 Loaded image: Lena4.pgm
 Image dimensions: 512x512
 First 10 pixel values: 162 162 162 161 162 156 163 160 164 160 
-CUDA Error: After image upload - invalid argument
 Mask size: 5x5
 ROI size: 512x512
 Anchor point: (2, 2)
@@ -87,7 +83,6 @@ GPU memory usage: used = 10572.687500, free = 11991.187500 MB, total = 22563.875
 Loaded image: Lena5.pgm
 Image dimensions: 512x512
 First 10 pixel values: 162 162 162 161 162 156 163 160 164 160 
-CUDA Error: After image upload - invalid argument
 Mask size: 5x5
 ROI size: 512x512
 Anchor point: (2, 2)
@@ -98,7 +93,6 @@ GPU memory usage: used = 10572.687500, free = 11991.187500 MB, total = 22563.875
 Loaded image: Lena6.pgm
 Image dimensions: 512x512
 First 10 pixel values: 162 162 162 161 162 156 163 160 164 160 
-CUDA Error: After image upload - invalid argument
 Mask size: 5x5
 ROI size: 512x512
 Anchor point: (2, 2)
@@ -109,7 +103,6 @@ GPU memory usage: used = 10572.687500, free = 11991.187500 MB, total = 22563.875
 Loaded image: Lena7.pgm
 Image dimensions: 512x512
 First 10 pixel values: 162 162 162 161 162 156 163 160 164 160 
-CUDA Error: After image upload - invalid argument
 Mask size: 5x5
 ROI size: 512x512
 Anchor point: (2, 2)
@@ -120,7 +113,6 @@ GPU memory usage: used = 10572.687500, free = 11991.187500 MB, total = 22563.875
 Loaded image: Lena8.pgm
 Image dimensions: 512x512
 First 10 pixel values: 162 162 162 161 162 156 163 160 164 160 
-CUDA Error: After image upload - invalid argument
 Mask size: 5x5
 ROI size: 512x512
 Anchor point: (2, 2)
@@ -131,7 +123,6 @@ GPU memory usage: used = 10572.687500, free = 11991.187500 MB, total = 22563.875
 Loaded image: Lena9.pgm
 Image dimensions: 512x512
 First 10 pixel values: 162 162 162 161 162 156 163 160 164 160 
-CUDA Error: After image upload - invalid argument
 Mask size: 5x5
 ROI size: 512x512
 Anchor point: (2, 2)
