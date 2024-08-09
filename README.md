@@ -1,23 +1,9 @@
-# CUDAatScaleForTheEnterpriseCourseProject
-  ## Project Description
-  Developing a program to process sequences of moving heads, fly-overs, and vehicles from the USC-SIPI Image Database, handling large volumes of image data.
+Sample: boxFilterNPP
+Minimum spec: SM 2.0
 
-  ## Execution
-  
-  
-  ## Code Organization
-  `bin/` This folder should hold all binary/executable code that is built automatically or manually. Executable code should have use the .exe extension or programming language-specific extension.
+A NPP CUDA Sample that demonstrates how to use NPP FilterBox function to perform a Box Filter.
 
-  `data/` This folder is for the sequence data.
-
-  `lib/` Any libraries that are not installed via the Operating System-specific package manager should be placed here, so that it is easier for inclusion/linking.
-
-  `src/` The source code should be placed here in a hierarchical fashion, as appropriate.
-
-  `README.md` This file should hold the description of the project so that anyone cloning or deciding if they want to clone this repository can understand its purpose to help with their decision.
-
-  `INSTALL` This file should hold the human-readable set of instructions for installing the code so that it can be executed. If possible it should be organized around different operating systems, so that it can be done by as many people as possible with different constraints.
-
-  `Makefile` or `CMAkeLists.txt` or `build.sh` There should be some rudimentary scripts for building your project's code in an automatic fashion.
-
-  `run.sh` An optional script used to run your executable code, either with or without command-line arguments.
+Key concepts:
+Performance Strategies
+Image Processing
+NPP Library
