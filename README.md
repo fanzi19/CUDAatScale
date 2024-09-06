@@ -1,4 +1,4 @@
-# CUDAatScaleForTheEnterpriseCourseProject
+# CUDAatScale
 This is a modified version for multiple images processing version.
 Original Version: Only one Lena.pgm image;
 Modified Version: 10 Copies of Lena.pgm images.
